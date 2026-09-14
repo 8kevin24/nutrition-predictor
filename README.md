@@ -1,4 +1,4 @@
-# Recipes and Ratings: Data Analysis and Predictive Model of Saturated Fat Percentage
+# Nutrition Prediction through recipes and ratings: Data Analysis and Predictive Model of Saturated Fat Percentage
 By Kevin Zhu
 ## Project Overview
 This is a data science project investigating how different factors affect the saturated fat percentage for a recipe.
